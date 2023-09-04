@@ -19,4 +19,4 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adriann.dev@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adriann.borges)
 
-
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/adriann-borges/adriann-borges/output/github-contribution-grid-snake.svg" />
