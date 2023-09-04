@@ -1,16 +1,22 @@
-### Hi there 👋
+## Hi, I'm Adrian, a programming enthusiast who recently took his first steps into the exciting world of software development.
 
-<!--
-**adriann-borges/adriann-borges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 My main goals are:
+   - Master Java and its libraries.
+   - Participate in collaborative projects to gain hands-on experience.
+   - Learn about good software development and design practices.
+   - Expand my knowledge in areas like web development.
 
-Here are some ideas to get you started:
+   🤝 I'm always open to new connections and collaborations, so feel free to get in touch with me. I love sharing knowledge and growing together with the developer community.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=adriann-borges&show_icons=true&theme=radical)
+
+
+[![JavaS](	https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
+
+##
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriannborgess/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adriann.dev@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adriann.borges)
+
+
